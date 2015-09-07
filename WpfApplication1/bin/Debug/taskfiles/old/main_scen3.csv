@@ -1,0 +1,119 @@
+Trial,Task,Mode,Name,Cuisine,Rating,Reviews,Price,Distance,Score,N_Audio,R_Name,R_Audio_Prompt,R_Audio_Confirm,R_Name_Incorrect,R_Audio_Incorrect
+1,Nav Easy,Hybrid,Bangkok Chef,Thai,4,72,$$$$,7.4,0,b_trial05.mp3,NA,NA,NA,NA,NA
+1,Nav Easy,Hybrid,The Carving Board,American,3,17,$$,9.3,1,b_trial05.mp3,NA,NA,NA,NA,NA
+1,Nav Easy,Hybrid,DC Steak House,American,2.5,64,$$$$,10.1,0,b_trial05.mp3,NA,NA,NA,NA,NA
+1,Nav Easy,Hybrid,Heavenly Havana,Cuban,4,1,$,17.2,0,b_trial05.mp3,NA,NA,NA,NA,NA
+1,Nav Easy,Hybrid,Eiffel Tower Cafe,French,2,125,$$$,20.9,0,b_trial05.mp3,NA,NA,NA,NA,NA
+2,Nav Easy,Hybrid,Five Guys Burgers and Fries,American,4,21,$,0.1,1,b_trial06.mp3,NA,NA,NA,NA,NA
+2,Nav Easy,Hybrid,Yin and Yam,Chinese,2,5,$$,7,0,b_trial06.mp3,NA,NA,NA,NA,NA
+2,Nav Easy,Hybrid,Subway,American,3.5,22,$$,9.5,0,b_trial06.mp3,NA,NA,NA,NA,NA
+2,Nav Easy,Hybrid,Wok Right In,Japanese,3.5,141,$,18.3,0,b_trial06.mp3,NA,NA,NA,NA,NA
+2,Nav Easy,Hybrid,South China,Chinese,2,55,$$,28,0,b_trial06.mp3,NA,NA,NA,NA,NA
+3,Nav Easy,Hybrid,Tofu For U,Korean,4,121,$$,3.8,0,b_trial07.mp3,NA,NA,NA,NA,NA
+3,Nav Easy,Hybrid,The Great Wall,Chinese,4,38,$,4.3,0,b_trial07.mp3,NA,NA,NA,NA,NA
+3,Nav Easy,Hybrid,Royal India,Indian,3.5,58,$,10,0,b_trial07.mp3,NA,NA,NA,NA,NA
+3,Nav Easy,Hybrid,The Willows,American,3.5,134,$,23.5,1,b_trial07.mp3,NA,NA,NA,NA,NA
+3,Nav Easy,Hybrid,Buffalo Wild Wings,American,3,87,$$,27,0,b_trial07.mp3,NA,NA,NA,NA,NA
+4,Nav Hard,Hybrid,Blue Diamond Brewery,American,4.5,82,$$,1.7,1,b_trial08.mp3,NA,NA,NA,NA,NA
+4,Nav Hard,Hybrid,Burger Barn,American,3,15,$$,12.3,0,b_trial08.mp3,NA,NA,NA,NA,NA
+4,Nav Hard,Hybrid,Satis Fried,American,2,97,$$,13,0,b_trial08.mp3,NA,NA,NA,NA,NA
+4,Nav Hard,Hybrid,Dairy Queen,American,2,117,$,25.6,0,b_trial08.mp3,NA,NA,NA,NA,NA
+4,Nav Hard,Hybrid,Ristorante Simone,Italian,4,69,$$,28.9,0,b_trial08.mp3,NA,NA,NA,NA,NA
+5,Nav Hard,Hybrid,The Hunger Gains,American,3,75,$$$$,2,0,b_trial09.mp3,NA,NA,NA,NA,NA
+5,Nav Hard,Hybrid,National Treasure,American,4.5,63,$,6.7,1,b_trial09.mp3,NA,NA,NA,NA,NA
+5,Nav Hard,Hybrid,Cedar,American,4,41,$$,9.3,0,b_trial09.mp3,NA,NA,NA,NA,NA
+5,Nav Hard,Hybrid,China Bistro,Chinese,4,37,$,9.8,0,b_trial09.mp3,NA,NA,NA,NA,NA
+5,Nav Hard,Hybrid,Southern Kitchen,American,4,133,$$,29.1,0,b_trial09.mp3,NA,NA,NA,NA,NA
+6,Nav Hard,Hybrid,Spice Xing,Indian,4,36,$$,8.8,0,b_trial10.mp3,NA,NA,NA,NA,NA
+6,Nav Hard,Hybrid,Seasons 52,American,3.5,22,$$,9.5,0,b_trial10.mp3,NA,NA,NA,NA,NA
+6,Nav Hard,Hybrid,Nick's Chophouse,American,4,6,$$$$,10.3,0,b_trial10.mp3,NA,NA,NA,NA,NA
+6,Nav Hard,Hybrid,Alpha Pi,American,3.5,39,$$,19.4,0,b_trial10.mp3,NA,NA,NA,NA,NA
+6,Nav Hard,Hybrid,Guapo's,American,4.5,62,$,20.7,1,b_trial10.mp3,NA,NA,NA,NA,NA
+
+7,TDT,NA,NA,NA,-5,-5,NA,-5,-5,NA,NA,NA,NA,NA,NA
+
+8,Radio,Visual Only,NA,NA,-5,-5,NA,-5,-5,NA,Radio Disney,r_play_disney.mp3,r_confirm_disney.mp3,Family Station,r_err_family.mp3
+9,Radio,Visual Only,NA,NA,-5,-5,NA,-5,-5,NA,Classical Hits,r_play_classical.mp3,r_confirm_classical.mp3,Hot New Hits,r_err_hits.mp3
+10,Radio,Visual Only,NA,NA,-5,-5,NA,-5,-5,NA,Sports News,r_play_sports.mp3,r_confirm_sports.mp3,Rhythm and Blues,r_err_rhythm.mp3
+11,1Radio,Visual Only,NA,NA,-5,-5,NA,-5,-5,NA,Jazz Nation,r_play_jazz.mp3,r_confirm_jazz.mp3,Night Time Station,r_err_night.mp3
+12,Radio,Visual Only,NA,NA,-5,-5,NA,-5,-5,NA,Electronic Beats,r_play_electric.mp3,r_confirm_electric.mp3,Smooth Blues,r_err_smooth.mp3
+13,Radio,Visual Only,NA,NA,-5,-5,NA,-5,-5,NA,Cool Jazz,r_play_cool.mp3,r_confirm_cool.mp3,K Jazz,r_err_jazz.mp3
+
+14,TDT,NA,NA,NA,-5,-5,NA,-5,-5,NA,NA,NA,NA,NA,NA
+
+15,Nav Easy,Audio Only,Shake Shack,American,4.5,198,$$,8.5,1,a_trial01.mp3,NA,NA,NA,NA,NA
+15,Nav Easy,Audio Only,Mojito,Cuban,4.5,37,$$$$,8.9,0,a_trial01.mp3,NA,NA,NA,NA,NA
+15,Nav Easy,Audio Only,Off The Record,American,4,33,$$$,14.7,0,a_trial01.mp3,NA,NA,NA,NA,NA
+15,Nav Easy,Audio Only,Sticky Rice,Chinese,3.5,109,$$,16.2,0,a_trial01.mp3,NA,NA,NA,NA,NA
+15,Nav Easy,Audio Only,Indigo,French,4,118,$$$,24.6,0,a_trial01.mp3,NA,NA,NA,NA,NA
+16,Nav Easy,Audio Only,Moe's Southwest Grill,Mexican,1,4,$$$,4.4,0,a_trial02.mp3,NA,NA,NA,NA,NA
+16,Nav Easy,Audio Only,Bite of India,Indian,5,97,$$,7,0,a_trial02.mp3,NA,NA,NA,NA,NA
+16,Nav Easy,Audio Only,Hank's Oyster Bar,Seafood,3.5,4,$$$$,14.5,0,a_trial02.mp3,NA,NA,NA,NA,NA
+16,Nav Easy,Audio Only,The Palm,American,4,27,$$,17.1,1,a_trial02.mp3,NA,NA,NA,NA,NA
+16,Nav Easy,Audio Only,The Prime Rib,American,3,19,$$$$,27.2,0,a_trial02.mp3,NA,NA,NA,NA,NA
+17,Nav Easy,Audio Only,Forbidden City,Chinese,5,89,$$$,2.5,0,a_trial03.mp3,NA,NA,NA,NA,NA
+17,Nav Easy,Audio Only,White Apron,American,5,28,$$,3.2,1,a_trial03.mp3,NA,NA,NA,NA,NA
+17,Nav Easy,Audio Only,Green House,Korean,4,106,$$,12.9,0,a_trial03.mp3,NA,NA,NA,NA,NA
+17,Nav Easy,Audio Only,Ginger Palace,Chinese,5,3,$,13.9,0,a_trial03.mp3,NA,NA,NA,NA,NA
+17,Nav Easy,Audio Only,Daniels Broiler,American,4.5,111,$$$,25.2,0,a_trial03.mp3,NA,NA,NA,NA,NA
+18,Nav Hard,Audio Only,Old Glory BBQ,American,4,241,$$,7.6,1,a_trial04.mp3,NA,NA,NA,NA,NA
+18,Nav Hard,Audio Only,Desert Fire,American,3.5,168,$$,11.9,0,a_trial04.mp3,NA,NA,NA,NA,NA
+18,Nav Hard,Audio Only,Bar Flight,American,3,59,$$,19,0,a_trial04.mp3,NA,NA,NA,NA,NA
+18,Nav Hard,Audio Only,The Pita Pit,Greek,5,104,$,21.2,0,a_trial04.mp3,NA,NA,NA,NA,NA
+18,Nav Hard,Audio Only,Divine Dinning,American,2.5,87,$,28.4,0,a_trial04.mp3,NA,NA,NA,NA,NA
+19,Nav Hard,Audio Only,Gyro Hut,Greek,3,95,$,4,0,a_trial05.mp3,NA,NA,NA,NA,NA
+19,Nav Hard,Audio Only,Food for Thought,American,3,144,$$$,7.1,0,a_trial05.mp3,NA,NA,NA,NA,NA
+19,Nav Hard,Audio Only,Kings Kitchen,American,4,222,$$$,15.9,0,a_trial05.mp3,NA,NA,NA,NA,NA
+19,Nav Hard,Audio Only,Jak's Grill,American,4.5,114,$$,18.9,1,a_trial05.mp3,NA,NA,NA,NA,NA
+19,Nav Hard,Audio Only,Grill to Chill,American,4,144,$$$,22.2,0,a_trial05.mp3,NA,NA,NA,NA,NA
+20,Nav Hard,Audio Only,Cooper's Kitchen,American,3.5,88,$$$,4.9,0,a_trial06.mp3,NA,NA,NA,NA,NA
+20,Nav Hard,Audio Only,The Ram,American,4.5,12,$$,10.2,1,a_trial06.mp3,NA,NA,NA,NA,NA
+20,Nav Hard,Audio Only,District Taco,Mexican,4.5,81,$,22.2,0,a_trial06.mp3,NA,NA,NA,NA,NA
+20,Nav Hard,Audio Only,Hot Spot,American,4,252,$$$,28.1,0,a_trial06.mp3,NA,NA,NA,NA,NA
+20,Nav Hard,Audio Only,Mr. Beans,American,2.5,208,$$$,29,0,a_trial06.mp3,NA,NA,NA,NA,NA
+
+21,TDT,NA,NA,NA,-5,-5,NA,-5,-5,NA,NA,NA,NA,NA,NA
+
+22,Nav Easy,Visual Only,Mamma Lucia,Italian,4,17,$$,1.2,0,v_trial01.mp3,NA,NA,NA,NA,NA
+22,Nav Easy,Visual Only,Lighthouse Tofu,Korean,4,16,$$$,2.9,0,v_trial01.mp3,NA,NA,NA,NA,NA
+22,Nav Easy,Visual Only,Gordon Biersch,American,4,82,$$,11.7,1,v_trial01.mp3,NA,NA,NA,NA,NA
+22,Nav Easy,Visual Only,Mykonos Grill,Greek,4,20,$$$,19.7,0,v_trial01.mp3,NA,NA,NA,NA,NA
+22,Nav Easy,Visual Only,Quench,American,3,25,$$$,23.7,0,v_trial01.mp3,NA,NA,NA,NA,NA
+23,Nav Easy,Visual Only,Sushi Zo,Japanese,4,9,$$$$,12.4,0,v_trial02.mp3,NA,NA,NA,NA,NA
+23,Nav Easy,Visual Only,Harold Black,American,4.5,184,$$,15.7,1,v_trial02.mp3,NA,NA,NA,NA,NA
+23,Nav Easy,Visual Only,The Capital Grille,American,4,74,$$$,17.6,0,v_trial02.mp3,NA,NA,NA,NA,NA
+23,Nav Easy,Visual Only,Macho Taco,Mexican,3,55,$$,25.1,0,v_trial02.mp3,NA,NA,NA,NA,NA
+23,Nav Easy,Visual Only,Paul's Bakery,French,4,67,$,26,0,v_trial02.mp3,NA,NA,NA,NA,NA
+24,Nav Easy,Visual Only,McDonalds,American,2.5,34,$,3.3,1,v_trial03.mp3,NA,NA,NA,NA,NA
+24,Nav Easy,Visual Only,Ambrosia,Greek,2,2,$$$,13.1,0,v_trial03.mp3,NA,NA,NA,NA,NA
+24,Nav Easy,Visual Only,Kona Kitchen,Japanese,3.5,39,$,15.7,0,v_trial03.mp3,NA,NA,NA,NA,NA
+24,Nav Easy,Visual Only,Bamboo Garden,Chinese,4.5,74,$$,11.7,0,v_trial03.mp3,NA,NA,NA,NA,NA
+24,Nav Easy,Visual Only,Proof,American,2,44,$$,19.6,0,v_trial03.mp3,NA,NA,NA,NA,NA
+25,Nav Hard,Visual Only,Black Salt,American,4.5,33,$$,5,1,v_trail04.mp3,NA,NA,NA,NA,NA
+25,Nav Hard,Visual Only,Founding Farmers,American,3,183,$$$,8.1,0,v_trail04.mp3,NA,NA,NA,NA,NA
+25,Nav Hard,Visual Only,Art and Soul,American,3.5,162,$$$,11.5,0,v_trail04.mp3,NA,NA,NA,NA,NA
+25,Nav Hard,Visual Only,Azteca,Mexican,3,103,$$,13.5,0,v_trail04.mp3,NA,NA,NA,NA,NA
+25,Nav Hard,Visual Only,KFC,American,2.5,37,$,19.3,0,v_trail04.mp3,NA,NA,NA,NA,NA
+26,Nav Hard,Visual Only,Fourth Estate,American,3.5,53,$$,2.1,0,v_trial05.mp3,NA,NA,NA,NA,NA
+26,Nav Hard,Visual Only,Bob's Big Boy,American,3.5,86,$$,5.2,0,v_trial05.mp3,NA,NA,NA,NA,NA
+26,Nav Hard,Visual Only,Island Pride,Jamaican,4,10,$,12.1,0,v_trial05.mp3,NA,NA,NA,NA,NA
+26,Nav Hard,Visual Only,The Pig,American,4,87,$$,21.5,0,v_trial05.mp3,NA,NA,NA,NA,NA
+26,Nav Hard,Visual Only,Logan Tavern,American,4.5,164,$,24.2,1,v_trial05.mp3,NA,NA,NA,NA,NA
+27,Nav Hard,Visual Only,Betty's Bakery,French,2,150,$,5.4,0,v_trial06.mp3,NA,NA,NA,NA,NA
+27,Nav Hard,Visual Only,Burger King,American,3.5,54,$,3.7,1,v_trial06.mp3,NA,NA,NA,NA,NA
+27,Nav Hard,Visual Only,Bub and Pop's,American,4.5,279,$$$,9.2,0,v_trial06.mp3,NA,NA,NA,NA,NA
+27,Nav Hard,Visual Only,Central Michel Richard,American,4.5,11,$$,14.6,0,v_trial06.mp3,NA,NA,NA,NA,NA
+27,Nav Hard,Visual Only,Morton's,American,4,9,$$,16.4,0,v_trial06.mp3,NA,NA,NA,NA,NA
+
+
+
+
+
+
+
+
+
+
+
+
+

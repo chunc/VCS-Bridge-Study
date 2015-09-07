@@ -1,0 +1,407 @@
+﻿<Window x:Class="WpfApplication1.win_subject"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="VCS Interface" 
+        Width="800"
+        Height="480"
+        KeyDown="Window_KeyDown">
+
+    <Window.Resources>
+        <!--Navigation Task Stylings-->
+        <Style x:Key="ListGroup" TargetType="GroupBox">
+            <Setter Property="BorderThickness" Value="1 1"/>
+            <Setter Property="FontSize" Value="18" />
+            <Setter Property="BorderBrush" Value="White" />
+            <Setter Property="Foreground" Value="White" />
+        </Style>
+
+        <Style x:Key="ListLabel" TargetType="Label">
+            <Setter Property="Foreground" Value="White"/>
+            <Setter Property="FontSize" Value="18"/>
+            <Setter Property="FontWeight" Value="Bold" />
+        </Style>
+
+        <Style x:Key="StarImage" TargetType="Image">
+            <Setter Property="RenderTransform">
+                <Setter.Value>
+                    <ScaleTransform ScaleX=".9" ScaleY=".9" />
+                </Setter.Value>
+            </Setter>
+        </Style>
+
+        <Style TargetType="{x:Type TabItem}">
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="{x:Type TabItem}">
+                        <Grid>
+                            <Border 
+                                Name="Border"
+                                Background="LightBlue"
+                                BorderBrush="Black" 
+                                BorderThickness="1,1,1,1" 
+                                CornerRadius="6,6,0,0" >
+                                <ContentPresenter x:Name="ContentSite"
+                                VerticalAlignment="Center"
+                                HorizontalAlignment="Center"
+                                ContentSource="Header"
+                                Margin="12,2,12,2"/>
+                            </Border>
+                        </Grid>
+                        <ControlTemplate.Triggers>
+                            <Trigger Property="IsSelected" Value="True">
+                                <Setter TargetName="Border" Property="Background" Value="White" />
+                                <Setter Property="Foreground" Value="DarkBlue" />
+                            </Trigger>
+                            <Trigger Property="IsSelected" Value="False">
+                                <Setter TargetName="Border" Property="Background" Value="Black" />
+                                <Setter Property="Foreground" Value="White" />
+                            </Trigger>
+                        </ControlTemplate.Triggers>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+            <Setter Property="FontSize" Value="35"/>
+            <Setter Property="FontWeight" Value="Bold" />
+        </Style>
+
+        <Style TargetType="Viewbox">
+            <Setter Property="HorizontalAlignment" Value="Left" />
+        </Style>
+        
+        <!--Radio Task Stylings-->
+        <Style x:Key="RadioList" TargetType="Label">
+            <Setter Property="Foreground" Value="White" />
+            <Setter Property="Padding" Value="0" />
+            <Setter Property="FontSize" Value="35" />
+            <Setter Property="VerticalAlignment" Value="Center" />
+        </Style>
+        
+        <Style x:Key="RadioBorder" TargetType="Border">
+            <Setter Property="BorderThickness" Value="2" />
+            <Setter Property="BorderBrush" Value="Gold"/>
+            <Setter Property="CornerRadius" Value="10" />
+            <Setter Property="Background" Value="RoyalBlue" />
+            <Setter Property="Padding" Value="10 0 0 0" />
+            <Setter Property="Margin" Value="0 10 0 10" />
+        </Style>
+    </Window.Resources>
+
+    
+
+    <Grid Background="Black">
+        <Grid x:Name="audio_only" Background="DarkSlateBlue" Panel.ZIndex="100"  Visibility="Hidden">
+            <Viewbox Grid.Row="1">
+                <Label Foreground="White" Padding="20 0 20 0"></Label>
+            </Viewbox>
+        </Grid>
+        
+        <TabControl x:Name="subj_tab" SelectedIndex="0" Background="Black" BorderThickness="0 6 0 0 " Margin="20 0 20 0">
+            <!--====================-->
+            <!--Navigation Tab-->
+            <!--====================-->
+            <TabItem Header="Navigation">
+                <Border Grid.Row="1" Grid.Column="1"  BorderBrush="RoyalBlue" BorderThickness="5" Margin="0 5 0 5" CornerRadius="5 5 5 5" Background="DarkSlateBlue">
+                    <Grid x:Name="subject_content">
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="10*" />
+                            <RowDefinition Height="10*" />
+                            <RowDefinition Height="10*" />
+                            <RowDefinition Height="10*" />
+                            <RowDefinition Height="10*" />
+                        </Grid.RowDefinitions>
+
+                        <GroupBox x:Name="line1" Header="Line 1"  Grid.Row="0" Style="{StaticResource ListGroup}">
+                            <Grid>
+                                <Grid.RowDefinitions>
+                                    <RowDefinition Height="50*"/>
+                                    <RowDefinition Height="50*"/>
+                                </Grid.RowDefinitions>
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="25*"/>
+                                    <ColumnDefinition Width="25*"/>
+                                    <ColumnDefinition Width="25*"/>
+                                    <ColumnDefinition Width="25*"/>
+                                </Grid.ColumnDefinitions>
+
+                                <Viewbox Grid.Row="0" Grid.Column="0">
+                                    <Label Style="{StaticResource ListLabel}" x:Name="sl1_name" Grid.Row="0" Grid.Column="0"></Label>
+                                </Viewbox>
+                                <Viewbox Grid.Row="0" Grid.Column="3">
+                                    <Label Style="{StaticResource ListLabel}" x:Name="sl1_distance" Grid.Row="0" Grid.Column="3"></Label>
+                                </Viewbox>
+                                <Viewbox Grid.Row="1" Grid.Column="0">
+                                    <Label Style="{StaticResource ListLabel}" x:Name="sl1_cuisine" Grid.Row="1" Grid.Column="0"></Label>
+                                </Viewbox>
+                                <Viewbox Grid.Row="1" Grid.Column="2">
+                                    <Label Style="{StaticResource ListLabel}" x:Name="sl1_reviews" Grid.Row="1" Grid.Column="2"></Label>
+                                </Viewbox>
+                                <Viewbox Grid.Row="1" Grid.Column="3">
+                                    <Label Style="{StaticResource ListLabel}" x:Name="sl1_price" Grid.Row="1" Grid.Column="3"></Label>
+                                </Viewbox>
+                                <Image x:Name="sl1_rating" Style="{StaticResource StarImage}" Grid.Row="1" Grid.Column="1"></Image>
+                            </Grid>
+                        </GroupBox>
+
+                        <GroupBox x:Name="line2" Header="Line 2"  Grid.Row="1" Style="{StaticResource ListGroup}">
+                            <Grid>
+                                <Grid.RowDefinitions>
+                                    <RowDefinition Height="50*"/>
+                                    <RowDefinition Height="50*"/>
+                                </Grid.RowDefinitions>
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="25*"/>
+                                    <ColumnDefinition Width="25*"/>
+                                    <ColumnDefinition Width="25*"/>
+                                    <ColumnDefinition Width="25*"/>
+                                </Grid.ColumnDefinitions>
+
+                                <Viewbox Grid.Row="0" Grid.Column="0">
+                                    <Label Style="{StaticResource ListLabel}" x:Name="sl2_name" Grid.Row="0" Grid.Column="0"></Label>
+                                </Viewbox>
+                                <Viewbox Grid.Row="0" Grid.Column="3">
+                                    <Label Style="{StaticResource ListLabel}" x:Name="sl2_distance" Grid.Row="0" Grid.Column="3"></Label>
+                                </Viewbox>
+                                <Viewbox Grid.Row="1" Grid.Column="0">
+                                    <Label Style="{StaticResource ListLabel}" x:Name="sl2_cuisine" Grid.Row="1" Grid.Column="0"></Label>
+                                </Viewbox>
+                                <Viewbox Grid.Row="1" Grid.Column="2">
+                                    <Label Style="{StaticResource ListLabel}" x:Name="sl2_reviews" Grid.Row="1" Grid.Column="2"></Label>
+                                </Viewbox>
+                                <Viewbox Grid.Row="1" Grid.Column="3">
+                                    <Label Style="{StaticResource ListLabel}" x:Name="sl2_price" Grid.Row="1" Grid.Column="3"></Label>
+                                </Viewbox>
+                                <Image x:Name="sl2_rating" Style="{StaticResource StarImage}" Grid.Row="1" Grid.Column="1" ></Image>
+                            </Grid>
+                        </GroupBox>
+
+                        <GroupBox x:Name="line3" Header="Line 3"  Grid.Row="2" Style="{StaticResource ListGroup}">
+                            <Grid>
+                                <Grid.RowDefinitions>
+                                    <RowDefinition Height="50*"/>
+                                    <RowDefinition Height="50*"/>
+                                </Grid.RowDefinitions>
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="25*"/>
+                                    <ColumnDefinition Width="25*"/>
+                                    <ColumnDefinition Width="25*"/>
+                                    <ColumnDefinition Width="25*"/>
+                                </Grid.ColumnDefinitions>
+
+                                <Viewbox Grid.Row="0" Grid.Column="0">
+                                    <Label Style="{StaticResource ListLabel}" x:Name="sl3_name" Grid.Row="0" Grid.Column="0"></Label>
+                                </Viewbox>
+                                <Viewbox Grid.Row="0" Grid.Column="3">
+                                    <Label Style="{StaticResource ListLabel}" x:Name="sl3_distance" Grid.Row="0" Grid.Column="3"></Label>
+                                </Viewbox>
+                                <Viewbox Grid.Row="1" Grid.Column="0">
+                                    <Label Style="{StaticResource ListLabel}" x:Name="sl3_cuisine" Grid.Row="1" Grid.Column="0"></Label>
+                                </Viewbox>
+                                <Viewbox Grid.Row="1" Grid.Column="2">
+                                    <Label Style="{StaticResource ListLabel}" x:Name="sl3_reviews" Grid.Row="1" Grid.Column="2"></Label>
+                                </Viewbox>
+                                <Viewbox Grid.Row="1" Grid.Column="3">
+                                    <Label Style="{StaticResource ListLabel}" x:Name="sl3_price" Grid.Row="1" Grid.Column="3"></Label>
+                                </Viewbox>
+                                <Image x:Name="sl3_rating" Style="{StaticResource StarImage}" Grid.Row="1" Grid.Column="1" ></Image>
+                            </Grid>
+                        </GroupBox>
+
+                        <GroupBox x:Name="line4" Header="Line 4"  Grid.Row="3" Style="{StaticResource ListGroup}">
+                            <Grid>
+                                <Grid.RowDefinitions>
+                                    <RowDefinition Height="50*"/>
+                                    <RowDefinition Height="50*"/>
+                                </Grid.RowDefinitions>
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="25*"/>
+                                    <ColumnDefinition Width="25*"/>
+                                    <ColumnDefinition Width="25*"/>
+                                    <ColumnDefinition Width="25*"/>
+                                </Grid.ColumnDefinitions>
+
+                                <Viewbox Grid.Row="0" Grid.Column="0">
+                                    <Label Style="{StaticResource ListLabel}" x:Name="sl4_name" Grid.Row="0" Grid.Column="0"></Label>
+                                </Viewbox>
+                                <Viewbox Grid.Row="0" Grid.Column="3">
+                                    <Label Style="{StaticResource ListLabel}" x:Name="sl4_distance" Grid.Row="0" Grid.Column="3"></Label>
+                                </Viewbox>
+                                <Viewbox Grid.Row="1" Grid.Column="0">
+                                    <Label Style="{StaticResource ListLabel}" x:Name="sl4_cuisine" Grid.Row="1" Grid.Column="0"></Label>
+                                </Viewbox>
+                                <Viewbox Grid.Row="1" Grid.Column="2">
+                                    <Label Style="{StaticResource ListLabel}" x:Name="sl4_reviews" Grid.Row="1" Grid.Column="2"></Label>
+                                </Viewbox>
+                                <Viewbox Grid.Row="1" Grid.Column="3">
+                                    <Label Style="{StaticResource ListLabel}" x:Name="sl4_price" Grid.Row="1" Grid.Column="3"></Label>
+                                </Viewbox>
+                                <Image x:Name="sl4_rating" Style="{StaticResource StarImage}" Grid.Row="1" Grid.Column="1" ></Image>
+                            </Grid>
+                        </GroupBox>
+
+                        <GroupBox x:Name="line5" Header="Line 5"  Grid.Row="4" Style="{StaticResource ListGroup}">
+                            <Grid>
+                                <Grid.RowDefinitions>
+                                    <RowDefinition Height="50*"/>
+                                    <RowDefinition Height="50*"/>
+                                </Grid.RowDefinitions>
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="25*"/>
+                                    <ColumnDefinition Width="25*"/>
+                                    <ColumnDefinition Width="25*"/>
+                                    <ColumnDefinition Width="25*"/>
+                                </Grid.ColumnDefinitions>
+
+                                <Viewbox Grid.Row="0" Grid.Column="0">
+                                    <Label Style="{StaticResource ListLabel}" x:Name="sl5_name" Grid.Row="0" Grid.Column="0"></Label>
+                                </Viewbox>
+                                <Viewbox Grid.Row="0" Grid.Column="3">
+                                    <Label Style="{StaticResource ListLabel}" x:Name="sl5_distance" Grid.Row="0" Grid.Column="3"></Label>
+                                </Viewbox>
+                                <Viewbox Grid.Row="1" Grid.Column="0">
+                                    <Label Style="{StaticResource ListLabel}" x:Name="sl5_cuisine" Grid.Row="1" Grid.Column="0"></Label>
+                                </Viewbox>
+                                <Viewbox Grid.Row="1" Grid.Column="2">
+                                    <Label Style="{StaticResource ListLabel}" x:Name="sl5_reviews" Grid.Row="1" Grid.Column="2"></Label>
+                                </Viewbox>
+                                <Viewbox Grid.Row="1" Grid.Column="3">
+                                    <Label Style="{StaticResource ListLabel}" x:Name="sl5_price" Grid.Row="1" Grid.Column="3"></Label>
+                                </Viewbox>
+                                <Image x:Name="sl5_rating" Style="{StaticResource StarImage}" Grid.Row="1" Grid.Column="1" ></Image>
+                            </Grid>
+                        </GroupBox>
+
+                        <TextBlock x:Name="wrong_command" Grid.RowSpan="5" Foreground="White" Background="DarkSlateBlue" FontSize="40" VerticalAlignment="Stretch" HorizontalAlignment="Stretch" TextWrapping="Wrap" Padding="20 0 20 0" Visibility="Hidden">
+                            <LineBreak/> I'm sorry. I did not understand you. <LineBreak/><LineBreak></LineBreak> Here are the available options again.
+                        </TextBlock>
+                       
+                        <Grid x:Name="nav_confirm" Background="DarkSlateBlue" Grid.RowSpan="5" Visibility="Hidden">   
+                            <Viewbox Grid.Row="1">
+                                <Label x:Name="restaurant_title" Foreground="White" Padding="20 0 20 0">Starting Navigation</Label>
+                            </Viewbox>
+                        </Grid>
+
+                        <!--<Grid x:Name="audio_only" Background="DarkSlateBlue" Grid.RowSpan="5" Visibility="Hidden">
+                            <Viewbox Grid.Row="1">
+                                <Label Foreground="White" Padding="20 0 20 0"></Label>
+                            </Viewbox>
+                        </Grid>-->
+
+                    </Grid>
+                </Border>
+            </TabItem>
+
+            <!--Radio Tab-->
+            <TabItem Header="Radio">
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="50*"/>
+                        <RowDefinition Height="25*" />
+                        <RowDefinition Height="25*" />
+                        <RowDefinition Height="25*" />
+                        <RowDefinition Height="25*" />
+                    </Grid.RowDefinitions>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="10*"/>
+                        <ColumnDefinition Width="10*"/>
+                        <ColumnDefinition Width="10*"/>
+                        
+                        <ColumnDefinition Width="12*"/>
+                        
+                        <ColumnDefinition Width="10*"/>
+                        <ColumnDefinition Width="10*"/>
+                        <ColumnDefinition Width="10*"/>
+                    </Grid.ColumnDefinitions>
+                    
+                    <!--Radio Title-->
+                    <Border BorderBrush="SlateBlue" BorderThickness="5" Grid.Row="0" Grid.ColumnSpan="8" CornerRadius="10" Margin="0 10 0 0" Background="MidnightBlue">
+                        <Grid>
+                            <Grid.RowDefinitions>
+                                <RowDefinition Height="30*"/>
+                                <RowDefinition Height="70*"/>
+                            </Grid.RowDefinitions>
+                            <Viewbox HorizontalAlignment="Center" Grid.Row="0">
+                                <Label x:Name="r_now_listening" Foreground="Teal" >You are now listening to:</Label>
+                            </Viewbox>
+                            
+                            <Viewbox HorizontalAlignment="Center" Grid.Row="1">
+                                <Label x:Name="radio_title" Grid.Row="1" Foreground="White">Bla Bla Bla</Label>
+                            </Viewbox>
+                        </Grid>
+                    </Border>
+                    
+                    <!--Row 1-->
+                    <Border Style="{StaticResource RadioBorder}" Grid.Row="1" Grid.Column="0" Grid.ColumnSpan="2">
+                        <Label Style="{StaticResource RadioList}">Hip Hop Hits</Label>
+                    </Border>
+                    <Border Style="{StaticResource RadioBorder}" Grid.Row="1" Grid.Column="2" Grid.ColumnSpan="1">
+                        <Label Style="{StaticResource RadioList}">101.3</Label>
+                    </Border>
+                    <Border Style="{StaticResource RadioBorder}" Grid.Row="1" Grid.Column="4" Grid.ColumnSpan="2">
+                        <Label Style="{StaticResource RadioList}">ESPN Xtreme</Label>
+                    </Border>
+                    <Border Style="{StaticResource RadioBorder}" Grid.Row="1" Grid.Column="8" Grid.ColumnSpan="1">
+                        <Label Style="{StaticResource RadioList}">103.5</Label>
+                    </Border>
+                    
+                    <!--Row 2-->
+                    <Border Style="{StaticResource RadioBorder}" Grid.Row="2" Grid.Column="0" Grid.ColumnSpan="2">
+                        <Label Style="{StaticResource RadioList}">Country Hits</Label>
+                    </Border>
+                    <Border Style="{StaticResource RadioBorder}" Grid.Row="2" Grid.Column="2" Grid.ColumnSpan="1">
+                        <Label Style="{StaticResource RadioList}">94.5</Label>
+                    </Border>
+                    <Border Style="{StaticResource RadioBorder}" Grid.Row="2" Grid.Column="4" Grid.ColumnSpan="2">
+                        <Label Style="{StaticResource RadioList}">Radio Disney</Label>
+                    </Border>
+                    <Border Style="{StaticResource RadioBorder}" Grid.Row="2" Grid.Column="8" Grid.ColumnSpan="1">
+                        <Label Style="{StaticResource RadioList}">100.3</Label>
+                    </Border>
+                    
+                    <!--Row 3-->
+                    <Border Style="{StaticResource RadioBorder}" Grid.Row="3" Grid.Column="0" Grid.ColumnSpan="2">
+                        <Label Style="{StaticResource RadioList}">NPR News</Label>
+                    </Border>
+                    <Border Style="{StaticResource RadioBorder}" Grid.Row="3" Grid.Column="2" Grid.ColumnSpan="1">
+                        <Label Style="{StaticResource RadioList}">92.3</Label>
+                    </Border>
+                    <Border Style="{StaticResource RadioBorder}" Grid.Row="3" Grid.Column="4" Grid.ColumnSpan="2">
+                        <Label Style="{StaticResource RadioList}">80's Pop</Label>
+                    </Border>
+                    <Border Style="{StaticResource RadioBorder}" Grid.Row="3" Grid.Column="8" Grid.ColumnSpan="1">
+                        <Label Style="{StaticResource RadioList}">102.7</Label>
+                    </Border>
+                    
+                    <!--Row 4-->
+                    <Border Style="{StaticResource RadioBorder}" Grid.Row="4" Grid.Column="0" Grid.ColumnSpan="2">
+                        <Label Style="{StaticResource RadioList}">Light Jazz</Label>
+                    </Border>
+                    <Border Style="{StaticResource RadioBorder}" Grid.Row="4" Grid.Column="2" Grid.ColumnSpan="1">
+                        <Label Style="{StaticResource RadioList}">98.4</Label>
+                    </Border>
+                    <Border Style="{StaticResource RadioBorder}" Grid.Row="4" Grid.Column="4" Grid.ColumnSpan="2">
+                        <Label Style="{StaticResource RadioList}">Classic Rock</Label>
+                    </Border>
+                    <Border Style="{StaticResource RadioBorder}" Grid.Row="4" Grid.Column="8" Grid.ColumnSpan="1">
+                        <Label Style="{StaticResource RadioList}">99.1</Label>
+                    </Border>
+                </Grid>
+            </TabItem>
+
+            <!--TDT Tab-->
+            <TabItem Header="TDT">
+                <Grid>                   
+                    <TextBlock Foreground="White" TextWrapping="Wrap" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="50">
+                        <!--Please focus on the TDT for the next 60 seconds-->
+                    </TextBlock>    
+                </Grid>
+            </TabItem>
+        </TabControl>
+
+
+
+
+
+
+    </Grid>
+
+</Window>

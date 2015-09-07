@@ -1,0 +1,7 @@
+Trial,Task,Mode,Name,Cuisine,Rating,Reviews,Price,Distance,Score,N_Audio,R_Name,R_Audio_Prompt,R_Audio_Confirm,R_Name_Incorrect,R_Audio_Incorrect
+1,Radio,Visual Only,NA,NA,-5,-5,NA,-5,-5,NA,Hip Hop Hits,r_play_hiphop.mp3,r_confirm_hiphop.mp3,Hot 97.3 FM,r_err_hot.mp3
+2,TDT Short,NA,NA,NA,-5,-5,NA,-5,-5,NA,NA,NA,NA,NA,NA
+3,Radio,Visual Only,NA,NA,-5,-5,NA,-5,-5,NA,NPR News,r_play_npr.mp3,r_confirm_npr.mp3,Fox News,r_err_fox.mp3
+4,TDT Long,NA,NA,NA,-5,-5,NA,-5,-5,NA,NA,NA,NA,NA,NA
+
+

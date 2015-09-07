@@ -1,0 +1,18 @@
+PID, Date, Time, RunType, Scenario, Trial, Task, Mode, InputEvent, ElapsedTime, Duration, N_OptimalChoice, R_FirstTry, Notes
+xxx,5/10/2015,22:53:02,Practice,NA,1,Nav Easy,Audio Only,Start Run,0:00:00.00,0,NA,NA,
+xxx,5/10/2015,22:53:03,Practice,NA,1,Nav Easy,Audio Only,(nav) end prompt,0:00:01.32,1.326,NA,NA,
+xxx,5/10/2015,22:53:16,Practice,NA,1,Nav Easy,Audio Only,(nav) line 4,0:00:14.60,14.6,no,NA,
+xxx,5/10/2015,22:53:16,Practice,NA,1,Nav Easy,Audio Only,show confirmation,0:00:14.82,14.826,NA,NA,
+xxx,5/10/2015,22:53:21,Practice,NA,2,Nav Hard,Audio Only,start trial 2,0:00:19.86,5.038,NA,NA,
+PID, Date, Time, RunType, Scenario, Trial, Task, Mode, InputEvent, ElapsedTime, Duration, N_OptimalChoice, R_FirstTry, Notes
+xxx,5/10/2015,23:18:45,Practice,NA,1,Nav Easy,Hybrid,Start Run,0:00:00.00,0,NA,NA,
+xxx,5/10/2015,23:18:46,Practice,NA,1,Nav Easy,Hybrid,(nav) end prompt,0:00:01.32,1.324,NA,NA,
+xxx,5/10/2015,23:18:57,Practice,NA,3,Nav Hard,Hybrid,Jump to trial 3,0:00:00.00,-1.323,NA,NA,
+xxx,5/10/2015,23:18:59,Practice,NA,3,Nav Hard,Hybrid,(nav) end prompt,0:00:01.32,1.323,NA,NA,
+xxx,5/10/2015,23:20:11,Practice,NA,1,Nav Hard,Visual Only,change scenario,0:01:13.65,73.656,NA,NA,
+PID, Date, Time, RunType, Scenario, Trial, Task, Mode, InputEvent, ElapsedTime, Duration, N_OptimalChoice, R_FirstTry, Notes
+xxx,5/10/2015,23:20:12,Practice,NA,1,Nav Hard,Visual Only,Start Run,0:00:00.00,0,NA,NA,
+xxx,5/10/2015,23:20:13,Practice,NA,1,Nav Hard,Visual Only,(nav) end prompt,0:00:01.11,1.115,NA,NA,
+xxx,5/10/2015,23:20:49,Practice,NA,3,Nav Hard,Visual Only,Jump to trial 3,0:00:00.00,-1.115,NA,NA,
+xxx,5/10/2015,23:20:50,Practice,NA,3,Nav Hard,Visual Only,(nav) end prompt,0:00:01.12,1.122,NA,NA,
+xxx,5/10/2015,23:21:16,Main Run,1A,1,TDT Long,NA,change scenario,0:00:27.06,27.066,NA,NA,

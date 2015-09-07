@@ -1,0 +1,46 @@
+Trial,Task,Mode,Name,Cuisine,Rating,Reviews,Price,Distance,Score,N_Audio,R_Name,R_Audio_Prompt,R_Audio_Confirm,R_Name_Incorrect,R_Audio_Incorrect
+1,Nav Hard,Visual Only,Nickel Diner,American,4,122,$$$,2.9,0,p_v_trail_1.mp3,NA,NA,NA,NA,NA
+1,Nav Hard,Visual Only,Off Vine,American,4.5,47,$$$,4.4,0,p_v_trail_1.mp3,NA,NA,NA,NA,NA
+1,Nav Hard,Visual Only,Cooks County,American,5,13,$$,10.4,1,p_v_trail_1.mp3,NA,NA,NA,NA,NA
+1,Nav Hard,Visual Only,Patina,French,4,99,$$$$,13.5,0,p_v_trail_1.mp3,NA,NA,NA,NA,NA
+1,Nav Hard,Visual Only,Desert Rose,American,3.5,28,$$$$,24.9,0,p_v_trail_1.mp3,NA,NA,NA,NA,NA
+2,Nav Easy,Visual Only,Chipotle,Mexican,4,27,$,7.2,0,p_v_trail_2.mp3,NA,NA,NA,NA,NA
+2,Nav Easy,Visual Only,Woodward Table,American,4,8,$$,10.6,1,p_v_trail_2.mp3,NA,NA,NA,NA,NA
+2,Nav Easy,Visual Only,Cactus Restaurant,Mexican,4,27,$$,22.3,0,p_v_trail_2.mp3,NA,NA,NA,NA,NA
+2,Nav Easy,Visual Only,Wingos,American,3.5,10,$$,28.1,0,p_v_trail_2.mp3,NA,NA,NA,NA,NA
+2,Nav Easy,Visual Only,Bar Cotto,Italian,4.5,47,$$,29.3,0,p_v_trail_2.mp3,NA,NA,NA,NA,NA
+3,Nav Hard,Visual Only,Red Hill,American,4,8,$$$$,3.5,0,p_v_trail_3.mp3,NA,NA,NA,NA,NA
+3,Nav Hard,Visual Only,Road to Seoul,Korean,4,64,$$,4,0,p_v_trail_3.mp3,NA,NA,NA,NA,NA
+3,Nav Hard,Visual Only,Big City Diner,American,3.5,20,$$,13.2,0,p_v_trail_3.mp3,NA,NA,NA,NA,NA
+3,Nav Hard,Visual Only,Ruby Tuesday,American,3.5,25,$$,14.3,0,p_v_trail_3.mp3,NA,NA,NA,NA,NA
+3,Nav Hard,Visual Only,Sizzler,American,4.5,5,$,23.3,1,p_v_trail_3.mp3,NA,NA,NA,NA,NA
+4,Nav Easy,Visual Only,Aquafire,American,2.5,81,$$,8.9,1,p_v_trail_4.mp3,NA,NA,NA,NA,NA
+4,Nav Easy,Visual Only,Loulay Kitchen & Bar,French,3.5,12,$$,9.6,0,p_v_trail_4.mp3,NA,NA,NA,NA,NA
+4,Nav Easy,Visual Only,Restaurant Zoe,Italian,4.5,92,$$$,11,0,p_v_trail_4.mp3,NA,NA,NA,NA,NA
+4,Nav Easy,Visual Only,Rib Rage,American,2,238,$$$,14.1,0,p_v_trail_4.mp3,NA,NA,NA,NA,NA
+4,Nav Easy,Visual Only,Costas Restaurant,Greek,4,33,$$,25.7,0,p_v_trail_4.mp3,NA,NA,NA,NA,NA
+5,Nav Easy,Visual Only,Altura,Italian,4.5,11,$$$,6.7,0,p_v_trail_5.mp3,NA,NA,NA,NA,NA
+5,Nav Easy,Visual Only,Jersey Mike's,American,3.5,97,$$,16.1,1,p_v_trail_5.mp3,NA,NA,NA,NA,NA
+5,Nav Easy,Visual Only,Momiji,Japanese,4,31,$$,19.3,0,p_v_trail_5.mp3,NA,NA,NA,NA,NA
+5,Nav Easy,Visual Only,Bob's Bakery,American,3,41,$$$,18.1,0,p_v_trail_5.mp3,NA,NA,NA,NA,NA
+5,Nav Easy,Visual Only,Luc,French,4,26,$$,23.1,0,p_v_trail_5.mp3,NA,NA,NA,NA,NA
+6,Nav Easy,Visual Only,Lee's Cheese,American,4,11,$$,2.5,1,p_v_trail_6.mp3,NA,NA,NA,NA,NA
+6,Nav Easy,Visual Only,Metropolitan Grill,American,3.5,109,$$$,7.1,0,p_v_trail_6.mp3,NA,NA,NA,NA,NA
+6,Nav Easy,Visual Only,Mamnoon,Middle Eastern,4.5,29,$$$,20.7,0,p_v_trail_6.mp3,NA,NA,NA,NA,NA
+6,Nav Easy,Visual Only,Tango,Spanish,4,170,$$,21.8,0,p_v_trail_6.mp3,NA,NA,NA,NA,NA
+6,Nav Easy,Visual Only,Tulio,Italian,4,102,$$$,25.8,0,p_v_trail_6.mp3,NA,NA,NA,NA,NA
+7,Nav Hard,Visual Only,The Kitchen,American,4,45,$$$,3.6,0,p_v_trail_7.mp3,NA,NA,NA,NA,NA
+7,Nav Hard,Visual Only,Little Dom's,Italian,4,74,$$,12.5,0,p_v_trail_7.mp3,NA,NA,NA,NA,NA
+7,Nav Hard,Visual Only,Little Fork,American,3.5,18,$$$,13.8,0,p_v_trail_7.mp3,NA,NA,NA,NA,NA
+7,Nav Hard,Visual Only,Father's Office,American,4.5,208,$$,19.9,1,p_v_trail_7.mp3,NA,NA,NA,NA,NA
+7,Nav Hard,Visual Only,The Corner Door,American,3,54,$$$,22.7,0,p_v_trail_7.mp3,NA,NA,NA,NA,NA
+8,Nav Easy,Visual Only,Cactus,Mexican,2.5,13,$$,2.4,0,p_v_trail_8.mp3,NA,NA,NA,NA,NA
+8,Nav Easy,Visual Only,Loaf Around,American,3,129,$,2.8,1,p_v_trail_8.mp3,NA,NA,NA,NA,NA
+8,Nav Easy,Visual Only,Yard House,American,2.5,62,$$,3.7,0,p_v_trail_8.mp3,NA,NA,NA,NA,NA
+8,Nav Easy,Visual Only,Chandler's Crabhouse,Seafood,4,51,$$,20.5,0,p_v_trail_8.mp3,NA,NA,NA,NA,NA
+8,Nav Easy,Visual Only,Lola,Greek,4,180,$$,28,0,p_v_trail_8.mp3,NA,NA,NA,NA,NA
+9,Nav Easy,Visual Only,The Georgian,French,4.5,30,$$$,4.1,0,p_v_trail_9.mp3,NA,NA,NA,NA,NA
+9,Nav Easy,Visual Only,Lark,American,4.5,53,$$$,12.1,1,p_v_trail_9.mp3,NA,NA,NA,NA,NA
+9,Nav Easy,Visual Only,Wild Ginger,Chinese,4,584,$$,18.5,0,p_v_trail_9.mp3,NA,NA,NA,NA,NA
+9,Nav Easy,Visual Only,Maximilien Restaurant,French,4,68,$$$,18.9,0,p_v_trail_9.mp3,NA,NA,NA,NA,NA
+9,Nav Easy,Visual Only,Sand Point Grill,American,2.5,20,$$$$,29.3,0,p_v_trail_9.mp3,NA,NA,NA,NA,NA

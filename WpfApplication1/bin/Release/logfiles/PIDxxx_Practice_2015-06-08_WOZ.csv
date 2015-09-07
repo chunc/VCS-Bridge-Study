@@ -1,0 +1,11 @@
+PID, Date, Time, RunType, Scenario, Trial, Task, Mode, InputEvent, ElapsedTime, Duration, N_OptimalChoice, R_FirstTry, Notes
+xxx,6/8/2015,14:47:51,Practice,NA,1,Radio,Visual Only,Start Run,0:00:00.00,0,NA,NA,
+xxx,6/8/2015,14:47:54,Practice,NA,1,Radio,Visual Only,chime,0:00:03.21,3.213,NA,NA,
+xxx,6/8/2015,14:48:00,Practice,NA,1,Radio,Visual Only,r_command_correct,0:00:09.16,9.17,NA,NA,
+xxx,6/8/2015,14:48:07,Practice,NA,1,Radio,Visual Only,r_confirm_correct,0:00:16.63,16.634,NA,yes,
+xxx,6/8/2015,14:48:07,Practice,NA,2,Radio,Visual Only,next trial,0:00:16.65,0.024,NA,NA,
+xxx,6/8/2015,14:48:11,Practice,NA,2,Radio,Visual Only,chime,0:00:19.87,3.212,NA,NA,
+xxx,6/8/2015,14:48:25,Practice,NA,1,Nav Hard,Visual Only,change scenario,0:00:34.32,34.329,NA,NA,
+PID, Date, Time, RunType, Scenario, Trial, Task, Mode, InputEvent, ElapsedTime, Duration, N_OptimalChoice, R_FirstTry, Notes
+xxx,6/8/2015,14:48:48,Practice,NA,1,Nav Hard,Visual Only,Start Run,0:00:00.00,0,NA,NA,
+xxx,6/8/2015,14:48:49,Practice,NA,1,Nav Hard,Visual Only,(nav) end prompt,0:00:01.12,1.123,NA,NA,

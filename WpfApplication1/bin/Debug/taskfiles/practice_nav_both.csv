@@ -1,0 +1,36 @@
+Trial,Task,Mode,Name,Cuisine,Rating,Reviews,Price,Distance,Score,N_Audio,R_Name,R_Audio_Prompt,R_Audio_Confirm,R_Name_Incorrect,R_Audio_Incorrect
+1,Nav Easy,Hybrid,Andina Restaurant,Peruvian,4.5,611,$$,2.7,0,p_h_trial_1.mp3,NA,NA,NA,NA,NA
+1,Nav Easy,Hybrid,Roe,Seafood,4.5,43,$$$,7.6,0,p_h_trial_1.mp3,NA,NA,NA,NA,NA
+1,Nav Easy,Hybrid,Ten Mercer,American,4,18,$$,8.5,1,p_h_trial_1.mp3,NA,NA,NA,NA,NA
+1,Nav Easy,Hybrid,Swiss Hisbiscus,German,5,70,$,10.3,0,p_h_trial_1.mp3,NA,NA,NA,NA,NA
+1,Nav Easy,Hybrid,Juno,American,3,20,$$$,23.1,0,p_h_trial_1.mp3,NA,NA,NA,NA,NA
+2,Nav Easy,Hybrid,Bamboo Sushi,Japanese,3.5,129,$$$$,4.1,0,p_h_trial_2.mp3,NA,NA,NA,NA,NA
+2,Nav Easy,Hybrid,BOKA Restaurant,American,4,81,$$,6.6,1,p_h_trial_2.mp3,NA,NA,NA,NA,NA
+2,Nav Easy,Hybrid,Etta's,Seafood,4,136,$$,14.4,0,p_h_trial_2.mp3,NA,NA,NA,NA,NA
+2,Nav Easy,Hybrid,Lecosho,American,3.5,40,$$$,24.6,0,p_h_trial_2.mp3,NA,NA,NA,NA,NA
+2,Nav Easy,Hybrid,Le Pigeon,French,4,281,$$$,28.7,0,p_h_trial_2.mp3,NA,NA,NA,NA,NA
+3,Nav Hard,Hybrid,The Salty Pig,American,4,83,$$,3.4,0,p_h_trial_3.mp3,NA,NA,NA,NA,NA
+3,Nav Hard,Hybrid,The Paramount,American,4,60,$$$,6.4,0,p_h_trial_3.mp3,NA,NA,NA,NA,NA
+3,Nav Hard,Hybrid,Sportello,Italian,4,67,$$,9.2,0,p_h_trial_3.mp3,NA,NA,NA,NA,NA
+3,Nav Hard,Hybrid,Hillstone,American,4.5,40,$,15.7,1,p_h_trial_3.mp3,NA,NA,NA,NA,NA
+3,Nav Hard,Hybrid,Artisan Bistro,American,3.5,10,$$$,19.9,0,p_h_trial_3.mp3,NA,NA,NA,NA,NA
+4,Nav Easy,Hybrid,Quince,Italian,3.5,76,$$,4.6,0,p_h_trial_4.mp3,NA,NA,NA,NA,NA
+4,Nav Easy,Hybrid,Matador Restaurant,American,4.5,91,$$,6.2,1,p_h_trial_4.mp3,NA,NA,NA,NA,NA
+4,Nav Easy,Hybrid,Mothers Bistro,American,3.5,754,$$$,11.7,0,p_h_trial_4.mp3,NA,NA,NA,NA,NA
+4,Nav Easy,Hybrid,Café Mingo,Italian,4,126,$$$,22,0,p_h_trial_4.mp3,NA,NA,NA,NA,NA
+4,Nav Easy,Hybrid,Piazza Italia,Italian,3,250,$$,23.3,0,p_h_trial_4.mp3,NA,NA,NA,NA,NA
+5,Nav Easy,Hybrid,Denny's,American,3.5,10,$,2.7,1,p_h_trial_5.mp3,NA,NA,NA,NA,NA
+5,Nav Easy,Hybrid,Bollywood Theatre,Indian,4.5,122,$$,7.1,0,p_h_trial_5.mp3,NA,NA,NA,NA,NA
+5,Nav Easy,Hybrid,Slide Inn,Italian,4.5,52,$$,16.1,0,p_h_trial_5.mp3,NA,NA,NA,NA,NA
+5,Nav Easy,Hybrid,The Driftwood Room,American,3,92,$$$,18.9,0,p_h_trial_5.mp3,NA,NA,NA,NA,NA
+5,Nav Easy,Hybrid,San Tung,Chinese,4.5,15,$$$,22,0,p_h_trial_5.mp3,NA,NA,NA,NA,NA
+6,Nav Easy,Hybrid,Por Que No,Mexican,3,90,$,6.1,0,p_h_trial_6.mp3,NA,NA,NA,NA,NA
+6,Nav Easy,Hybrid,Toro Bravo,Spanish,4,326,$$,8,0,p_h_trial_6.mp3,NA,NA,NA,NA,NA
+6,Nav Easy,Hybrid,Screen Door,American,4.5,514,$$,12.1,1,p_h_trial_6.mp3,NA,NA,NA,NA,NA
+6,Nav Easy,Hybrid,Grassa,Italian,2.5,72,$,16.3,0,p_h_trial_6.mp3,NA,NA,NA,NA,NA
+6,Nav Easy,Hybrid,Olympic Provisions,American,3,85,$$$,26.2,0,p_h_trial_6.mp3,NA,NA,NA,NA,NA
+7,Nav Easy,Hybrid,Dar Salam,Middle Eastern,3,34,$$,2.4,0,p_h_trial_7.mp3,NA,NA,NA,NA,NA
+7,Nav Easy,Hybrid,Imperial,American,4.5,236,$$,3,1,p_h_trial_7.mp3,NA,NA,NA,NA,NA
+7,Nav Easy,Hybrid,Ava Gene's,Italian,4.5,111,$$$,8.5,0,p_h_trial_7.mp3,NA,NA,NA,NA,NA
+7,Nav Easy,Hybrid,The Whole Bowl,American,4,14,$$$,12.5,0,p_h_trial_7.mp3,NA,NA,NA,NA,NA
+7,Nav Easy,Hybrid,Tabor,Czech,3,34,$,23.4,0,p_h_trial_7.mp3,NA,NA,NA,NA,NA

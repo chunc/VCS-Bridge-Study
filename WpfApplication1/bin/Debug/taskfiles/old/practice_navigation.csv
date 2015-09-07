@@ -1,0 +1,101 @@
+Trial,Task,Mode,Name,Cuisine,Rating,Reviews,Distance,Price,Score,N_Audio,R_Name,R_Audio_Prompt,R_Audio_Confirm,R_Name_Incorrect,R_Audio_Incorrect
+1,Nav Easy,Visual Only,Jade Garden,Chinese,4,3,0.8,$,0,NA,NA,NA,NA,NA,NA
+1,Nav Easy,Visual Only,Bob's Bistro,American,3,101,0.9,$$,0,NA,NA,NA,NA,NA,NA
+1,Nav Easy,Visual Only,McDonalds,American,2,34,17,$,0,NA,NA,NA,NA,NA,NA
+1,Nav Easy,Visual Only,Chipotle,Mexican,4,27,2,$,0,NA,NA,NA,NA,NA,NA
+1,Nav Easy,Visual Only,Rasika,Indian,4.5,56,9.9,$$,0,NA,NA,NA,NA,NA,NA
+2,Nav Easy,Visual Only,Komi,Greek,4.5,98,0.2,$$$,0,NA,NA,NA,NA,NA,NA
+2,Nav Easy,Visual Only,China First,Chinese,3,48,10.3,$,0,NA,NA,NA,NA,NA,NA
+2,Nav Easy,Visual Only,Olive Garden,Italian,2.5,68,12.8,$$,0,NA,NA,NA,NA,NA,NA
+2,Nav Easy,Visual Only,Sushi Zo,Japanese,4,9,4.1,$$$,0,NA,NA,NA,NA,NA,NA
+2,Nav Easy,Visual Only,Cheesecake Factory,American,3.5,99,4.8,$$,0,NA,NA,NA,NA,NA,NA
+20,Nav Easy,Visual Only,South China,Chinese,2,55,0.3,$$,0,NA,NA,NA,NA,NA,NA
+20,Nav Easy,Visual Only,Subway,American,3.5,91,0.9,$,0,NA,NA,NA,NA,NA,NA
+20,Nav Easy,Visual Only,Bob's Big Boy,American,3.5,86,17.8,$$,0,NA,NA,NA,NA,NA,NA
+20,Nav Easy,Visual Only,Blue Diamond Brewery,American,4.5,82,24.6,$$,0,NA,NA,NA,NA,NA,NA
+20,Nav Easy,Visual Only,Panera Bread,Italian,4,109,4.5,$,0,NA,NA,NA,NA,NA,NA
+3,Nav Easy,Visual Only,Ambrosia,Greek,2,2,1.9,$$,0,NA,NA,NA,NA,NA,NA
+3,Nav Easy,Visual Only,Royal India,Indian,3.5,58,20.1,$,0,NA,NA,NA,NA,NA,NA
+3,Nav Easy,Visual Only,DC Grill,American,2.5,70,20.6,$$$,0,NA,NA,NA,NA,NA,NA
+3,Nav Easy,Visual Only,What the Pho,Vietnamese,4,14,3,$,0,NA,NA,NA,NA,NA,NA
+3,Nav Easy,Visual Only,Tofu For U,Korean,4,121,6.1,$$,0,NA,NA,NA,NA,NA,NA
+4,Nav Easy,Visual Only,Domino's Pizza,Pizza,3.5,97,1.9,$,0,NA,NA,NA,NA,NA,NA
+4,Nav Easy,Visual Only,The Great Wall,Chinese,4,38,13.5,$,0,NA,NA,NA,NA,NA,NA
+4,Nav Easy,Visual Only,Ben's Chili Bowl,American,3,572,2.5,$$,0,NA,NA,NA,NA,NA,NA
+4,Nav Easy,Visual Only,Carmine's Pizzeria,Pizza,3,60,6.3,$$,0,NA,NA,NA,NA,NA,NA
+4,Nav Easy,Visual Only,Indo Cafe,Indonesian,4,138,8.2,$$$,0,NA,NA,NA,NA,NA,NA
+5,Nav Easy,Visual Only,Lincoln,American,4,53,18.7,$$,0,NA,NA,NA,NA,NA,NA
+5,Nav Easy,Visual Only,Cafe of India,Indian,3.5,18,2.3,$,0,NA,NA,NA,NA,NA,NA
+5,Nav Easy,Visual Only,Thai and Thai Again,Thai,3.5,24,2.5,$$,0,NA,NA,NA,NA,NA,NA
+5,Nav Easy,Visual Only,Hank's Oyster Bar,Seafood,3.5,4,8.4,$$$,0,NA,NA,NA,NA,NA,NA
+5,Nav Easy,Visual Only,Kona Kitchen,Japanese,3.5,39,9.5,$,0,NA,NA,NA,NA,NA,NA
+6,Nav Easy,Visual Only,The Carving Board,American,3,17,10.1,$$,0,NA,NA,NA,NA,NA,NA
+6,Nav Easy,Visual Only,Azteca,Mexican,3,103,16.6,$$,0,NA,NA,NA,NA,NA,NA
+6,Nav Easy,Visual Only,Garden of Eden,Salad,4,7,17.3,$,0,NA,NA,NA,NA,NA,NA
+6,Nav Easy,Visual Only,Chef Geoff's,American,3.5,94,3.6,$,0,NA,NA,NA,NA,NA,NA
+6,Nav Easy,Visual Only,Geo's Cuban Sandwich,Cuban,4,137,3.8,$,0,NA,NA,NA,NA,NA,NA
+7,Nav Easy,Visual Only,Pho Real,Vietnamese,3.5,86,0.1,$,0,NA,NA,NA,NA,NA,NA
+7,Nav Easy,Visual Only,Justin Time Cafe,American,4.5,56,0.7,$$,0,NA,NA,NA,NA,NA,NA
+7,Nav Easy,Visual Only,Wicked Waffle,American,4.5,37,14.2,$$,0,NA,NA,NA,NA,NA,NA
+7,Nav Easy,Visual Only,KFC,American,2.5,37,4.2,$,0,NA,NA,NA,NA,NA,NA
+7,Nav Easy,Visual Only,Bamboo Garden,Chinese,4.5,74,9.8,$$,0,NA,NA,NA,NA,NA,NA
+8,Nav Easy,Visual Only,Indigo,French,4,118,0.3,$$$,0,NA,NA,NA,NA,NA,NA
+8,Nav Easy,Visual Only,Golden Gate Cafe,Italian,4,52,10.7,$$,0,NA,NA,NA,NA,NA,NA
+8,Nav Easy,Visual Only,Sticky Rice,Chinese,3.5,109,11,$$,0,NA,NA,NA,NA,NA,NA
+8,Nav Easy,Visual Only,Miso Hungry,Japanese,3,43,12.3,$,0,NA,NA,NA,NA,NA,NA
+8,Nav Easy,Visual Only,Cafe Milano,Italian,4,38,3.3,$$$,0,NA,NA,NA,NA,NA,NA
+9,Nav Easy,Visual Only,Satay,Indonesian,3.5,66,0.1,$$,0,NA,NA,NA,NA,NA,NA
+9,Nav Easy,Visual Only,Tortilla Cafe,Mexican,2,5,1.7,$,0,NA,NA,NA,NA,NA,NA
+9,Nav Easy,Visual Only,Mojito,Cuban,4.5,37,11.1,$$$,0,NA,NA,NA,NA,NA,NA
+9,Nav Easy,Visual Only,Rising Sun Sushi,Japanese,2.5,3,12.4,$$$,0,NA,NA,NA,NA,NA,NA
+9,Nav Easy,Visual Only,DAS Ethiopian Restaurant,Ethiopian,4.5,132,4.8,$,0,NA,NA,NA,NA,NA,NA
+10,Nav Easy,Visual Only,Papa Johns,Pizza,2.5,63,17.3,$,0,NA,NA,NA,NA,NA,NA
+10,Nav Easy,Visual Only,Island Soul,Caribbean,4,147,2,$,0,NA,NA,NA,NA,NA,NA
+10,Nav Easy,Visual Only,Buffalo Wild Wings,American,3.5,87,4.2,$$,0,NA,NA,NA,NA,NA,NA
+10,Nav Easy,Visual Only,Satis Fried,American,2,97,4.4,$,0,NA,NA,NA,NA,NA,NA
+10,Nav Easy,Visual Only,Poseidon's Palace,Greek,3.5,63,8.6,$,0,NA,NA,NA,NA,NA,NA
+11,Nav Easy,Visual Only,The Willows,American,3.5,134,1,$$,0,NA,NA,NA,NA,NA,NA
+11,Nav Easy,Visual Only,Moe's Southwest Grill,Mexican,1,4,1.3,$$,0,NA,NA,NA,NA,NA,NA
+11,Nav Easy,Visual Only,Green House,Korean,4,106,1.6,$$,0,NA,NA,NA,NA,NA,NA
+11,Nav Easy,Visual Only,I Love Sushi,Japanese,4.5,36,12.7,$$$,0,NA,NA,NA,NA,NA,NA
+11,Nav Easy,Visual Only,Bite of India,Indian,5,97,13.6,$$,0,NA,NA,NA,NA,NA,NA
+12,Nav Easy,Visual Only,Eiffel Tower Cafe,French,2,125,16.6,$$$,0,NA,NA,NA,NA,NA,NA
+12,Nav Easy,Visual Only,DC Steak House,American,2.5,64,16.7,$$$,0,NA,NA,NA,NA,NA,NA
+12,Nav Easy,Visual Only,Pho Sure,Vietnamese,3,3,3.1,$,0,NA,NA,NA,NA,NA,NA
+12,Nav Easy,Visual Only,Nishimura,Japanese,5,121,5.5,$$$,0,NA,NA,NA,NA,NA,NA
+12,Nav Easy,Visual Only,Rumba,Cuban,4,88,7.3,$,0,NA,NA,NA,NA,NA,NA
+13,Nav Easy,Visual Only,Thai Tanic,Thai,4.5,61,0.3,$,0,NA,NA,NA,NA,NA,NA
+13,Nav Easy,Visual Only,Paul's Bakery,French,4,67,11.6,$,0,NA,NA,NA,NA,NA,NA
+13,Nav Easy,Visual Only,Dairy Queen,American,2,117,11.9,$,0,NA,NA,NA,NA,NA,NA
+13,Nav Easy,Visual Only,Soup City,American,5,5,14,$$$,0,NA,NA,NA,NA,NA,NA
+13,Nav Easy,Visual Only,District of Pi,Pizza,4,3,17.5,$$,0,NA,NA,NA,NA,NA,NA
+14,Nav Easy,Visual Only,Ristorante Simone,Italian,4,69,0.6,$$,0,NA,NA,NA,NA,NA,NA
+14,Nav Easy,Visual Only,Fiola,Italian,4.5,104,1,$$$,0,NA,NA,NA,NA,NA,NA
+14,Nav Easy,Visual Only,Burger Barn,American,3,15,15,$$,0,NA,NA,NA,NA,NA,NA
+14,Nav Easy,Visual Only,Bangkok Chef,Thai,4,72,2.1,$$$,0,NA,NA,NA,NA,NA,NA
+14,Nav Easy,Visual Only,Frying Nemo,Seafood,1.5,9,7.4,$$$,0,NA,NA,NA,NA,NA,NA
+15,Nav Easy,Visual Only,Udon Now,Japanese,2,107,11,$,0,NA,NA,NA,NA,NA,NA
+15,Nav Easy,Visual Only,Olive Tree Cafe,Greek,4,43,13.8,$,0,NA,NA,NA,NA,NA,NA
+15,Nav Easy,Visual Only,Barolo,Italian,1,103,2.7,$$,0,NA,NA,NA,NA,NA,NA
+15,Nav Easy,Visual Only,Brewed Awakening,Italian,4,8,3.1,$$,0,NA,NA,NA,NA,NA,NA
+15,Nav Easy,Visual Only,Heavenly Havana,Cuban,4,1,7.2,$,0,NA,NA,NA,NA,NA,NA
+16,Nav Easy,Visual Only,Cedar,American,4,41,0.1,$$,0,NA,NA,NA,NA,NA,NA
+16,Nav Easy,Visual Only,Rock Bottom Brewery,American,3.5,12,13.8,$,0,NA,NA,NA,NA,NA,NA
+16,Nav Easy,Visual Only,Forbidden City,Chinese,5,89,18.2,$$,0,NA,NA,NA,NA,NA,NA
+16,Nav Easy,Visual Only,Alpha Pi,American,3.5,39,8.2,$$,0,NA,NA,NA,NA,NA,NA
+16,Nav Easy,Visual Only,Gyro Hut,Greek,3,95,8.9,$,0,NA,NA,NA,NA,NA,NA
+17,Nav Easy,Visual Only,The Pita Pit,Greek,5,104,11.2,$,0,NA,NA,NA,NA,NA,NA
+17,Nav Easy,Visual Only,National Treasure,American,4.5,63,2.3,$,0,NA,NA,NA,NA,NA,NA
+17,Nav Easy,Visual Only,Southern Kitchen,American,4,133,3.2,$,0,NA,NA,NA,NA,NA,NA
+17,Nav Easy,Visual Only,The List,Italian,4.5,245,5.3,$$$,0,NA,NA,NA,NA,NA,NA
+17,Nav Easy,Visual Only,Yin and Yam,Chinese,2,5,8,$$,0,NA,NA,NA,NA,NA,NA
+18,Nav Easy,Visual Only,Ginger Palace,Chinese,5,3,23.5,$,0,NA,NA,NA,NA,NA,NA
+18,Nav Easy,Visual Only,Macho Taco,Mexican,3,55,3,$$,0,NA,NA,NA,NA,NA,NA
+18,Nav Easy,Visual Only,The Hunger Gains,American,3,75,3.3,$$$,0,NA,NA,NA,NA,NA,NA
+18,Nav Easy,Visual Only,Coho Restaurant,Seafood,3.5,1,8,$$,0,NA,NA,NA,NA,NA,NA
+18,Nav Easy,Visual Only,District Taco,Mexican,4.5,81,8.4,$,0,NA,NA,NA,NA,NA,NA
+19,Nav Easy,Visual Only,Ezme,Turkish,4,114,10.6,$$$,0,NA,NA,NA,NA,NA,NA
+19,Nav Easy,Visual Only,The Pineapple Room,Hawaiian,3.5,31,11.5,$$$,0,NA,NA,NA,NA,NA,NA
+19,Nav Easy,Visual Only,Wok Right In,Japanese,3.5,141,13.4,$,0,NA,NA,NA,NA,NA,NA
+19,Nav Easy,Visual Only,Betty's Bakery,French,2,150,17.4,$,0,NA,NA,NA,NA,NA,NA
+19,Nav Easy,Visual Only,Burger King,American,3,54,6.6,$,0,NA,NA,NA,NA,NA,NA

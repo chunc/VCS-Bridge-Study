@@ -1,0 +1,47 @@
+C:\Users\Chun-Cheng\Google Drive\VCS Interface Development\VCS Bridge Study\VCS Interface\WpfApplication1\bin\Release\VCS Wizard.exe.config
+C:\Users\Chun-Cheng\Google Drive\VCS Interface Development\VCS Bridge Study\VCS Interface\WpfApplication1\bin\Release\VCS Wizard.exe
+C:\Users\Chun-Cheng\Google Drive\VCS Interface Development\VCS Bridge Study\VCS Interface\WpfApplication1\bin\Release\VCS Wizard.pdb
+C:\Users\Chun-Cheng\Google Drive\VCS Interface Development\VCS Bridge Study\VCS Interface\WpfApplication1\bin\Release\CsvHelper.dll
+C:\Users\Chun-Cheng\Google Drive\VCS Interface Development\VCS Bridge Study\VCS Interface\WpfApplication1\bin\Release\CsvHelper.pdb
+C:\Users\Chun-Cheng\Google Drive\VCS Interface Development\VCS Bridge Study\VCS Interface\WpfApplication1\bin\Release\CsvHelper.xml
+C:\Users\Chun-Cheng\Google Drive\VCS Interface Development\VCS Bridge Study\VCS Interface\WpfApplication1\obj\Release\Interop.WMPLib.dll
+C:\Users\Chun-Cheng\Google Drive\VCS Interface Development\VCS Bridge Study\VCS Interface\WpfApplication1\obj\Release\Test1.csproj.ResolveComReference.cache
+C:\Users\Chun-Cheng\Google Drive\VCS Interface Development\VCS Bridge Study\VCS Interface\WpfApplication1\obj\Release\demo1.baml
+C:\Users\Chun-Cheng\Google Drive\VCS Interface Development\VCS Bridge Study\VCS Interface\WpfApplication1\obj\Release\demo2.baml
+C:\Users\Chun-Cheng\Google Drive\VCS Interface Development\VCS Bridge Study\VCS Interface\WpfApplication1\obj\Release\win_subject.baml
+C:\Users\Chun-Cheng\Google Drive\VCS Interface Development\VCS Bridge Study\VCS Interface\WpfApplication1\obj\Release\win_wizard.baml
+C:\Users\Chun-Cheng\Google Drive\VCS Interface Development\VCS Bridge Study\VCS Interface\WpfApplication1\obj\Release\demo1.g.cs
+C:\Users\Chun-Cheng\Google Drive\VCS Interface Development\VCS Bridge Study\VCS Interface\WpfApplication1\obj\Release\demo2.g.cs
+C:\Users\Chun-Cheng\Google Drive\VCS Interface Development\VCS Bridge Study\VCS Interface\WpfApplication1\obj\Release\win_subject.g.cs
+C:\Users\Chun-Cheng\Google Drive\VCS Interface Development\VCS Bridge Study\VCS Interface\WpfApplication1\obj\Release\win_wizard.g.cs
+C:\Users\Chun-Cheng\Google Drive\VCS Interface Development\VCS Bridge Study\VCS Interface\WpfApplication1\obj\Release\App.g.cs
+C:\Users\Chun-Cheng\Google Drive\VCS Interface Development\VCS Bridge Study\VCS Interface\WpfApplication1\obj\Release\VCS Wizard_MarkupCompile.cache
+C:\Users\Chun-Cheng\Google Drive\VCS Interface Development\VCS Bridge Study\VCS Interface\WpfApplication1\obj\Release\VCS Wizard.g.resources
+C:\Users\Chun-Cheng\Google Drive\VCS Interface Development\VCS Bridge Study\VCS Interface\WpfApplication1\obj\Release\VCS_WOZ.Properties.Resources.resources
+C:\Users\Chun-Cheng\Google Drive\VCS Interface Development\VCS Bridge Study\VCS Interface\WpfApplication1\obj\Release\Test1.csproj.GenerateResource.Cache
+C:\Users\Chun-Cheng\Google Drive\VCS Interface Development\VCS Bridge Study\VCS Interface\WpfApplication1\obj\Release\VCS Wizard.exe
+C:\Users\Chun-Cheng\Google Drive\VCS Interface Development\VCS Bridge Study\VCS Interface\WpfApplication1\obj\Release\VCS Wizard.pdb
+C:\Users\ChunC\Google Drive\VCS Interface Development\VCS Bridge Study\VCS Interface\WpfApplication1\bin\Release\VCS Wizard.exe.config
+C:\Users\ChunC\Google Drive\VCS Interface Development\VCS Bridge Study\VCS Interface\WpfApplication1\bin\Release\VCS Wizard.exe
+C:\Users\ChunC\Google Drive\VCS Interface Development\VCS Bridge Study\VCS Interface\WpfApplication1\bin\Release\VCS Wizard.pdb
+C:\Users\ChunC\Google Drive\VCS Interface Development\VCS Bridge Study\VCS Interface\WpfApplication1\bin\Release\CsvHelper.dll
+C:\Users\ChunC\Google Drive\VCS Interface Development\VCS Bridge Study\VCS Interface\WpfApplication1\bin\Release\CsvHelper.pdb
+C:\Users\ChunC\Google Drive\VCS Interface Development\VCS Bridge Study\VCS Interface\WpfApplication1\bin\Release\CsvHelper.xml
+C:\Users\ChunC\Google Drive\VCS Interface Development\VCS Bridge Study\VCS Interface\WpfApplication1\obj\Release\Interop.WMPLib.dll
+C:\Users\ChunC\Google Drive\VCS Interface Development\VCS Bridge Study\VCS Interface\WpfApplication1\obj\Release\Test1.csproj.ResolveComReference.cache
+C:\Users\ChunC\Google Drive\VCS Interface Development\VCS Bridge Study\VCS Interface\WpfApplication1\obj\Release\demo1.baml
+C:\Users\ChunC\Google Drive\VCS Interface Development\VCS Bridge Study\VCS Interface\WpfApplication1\obj\Release\demo2.baml
+C:\Users\ChunC\Google Drive\VCS Interface Development\VCS Bridge Study\VCS Interface\WpfApplication1\obj\Release\win_subject.baml
+C:\Users\ChunC\Google Drive\VCS Interface Development\VCS Bridge Study\VCS Interface\WpfApplication1\obj\Release\win_wizard.baml
+C:\Users\ChunC\Google Drive\VCS Interface Development\VCS Bridge Study\VCS Interface\WpfApplication1\obj\Release\demo1.g.cs
+C:\Users\ChunC\Google Drive\VCS Interface Development\VCS Bridge Study\VCS Interface\WpfApplication1\obj\Release\demo2.g.cs
+C:\Users\ChunC\Google Drive\VCS Interface Development\VCS Bridge Study\VCS Interface\WpfApplication1\obj\Release\win_subject.g.cs
+C:\Users\ChunC\Google Drive\VCS Interface Development\VCS Bridge Study\VCS Interface\WpfApplication1\obj\Release\win_wizard.g.cs
+C:\Users\ChunC\Google Drive\VCS Interface Development\VCS Bridge Study\VCS Interface\WpfApplication1\obj\Release\App.g.cs
+C:\Users\ChunC\Google Drive\VCS Interface Development\VCS Bridge Study\VCS Interface\WpfApplication1\obj\Release\VCS Wizard_MarkupCompile.cache
+C:\Users\ChunC\Google Drive\VCS Interface Development\VCS Bridge Study\VCS Interface\WpfApplication1\obj\Release\VCS Wizard.g.resources
+C:\Users\ChunC\Google Drive\VCS Interface Development\VCS Bridge Study\VCS Interface\WpfApplication1\obj\Release\VCS_WOZ.Properties.Resources.resources
+C:\Users\ChunC\Google Drive\VCS Interface Development\VCS Bridge Study\VCS Interface\WpfApplication1\obj\Release\Test1.csproj.GenerateResource.Cache
+C:\Users\ChunC\Google Drive\VCS Interface Development\VCS Bridge Study\VCS Interface\WpfApplication1\obj\Release\VCS Wizard.exe
+C:\Users\ChunC\Google Drive\VCS Interface Development\VCS Bridge Study\VCS Interface\WpfApplication1\obj\Release\VCS Wizard.pdb
+C:\Users\Chun-Cheng\Google Drive\VCS Interface Development\VCS Bridge Study\VCS Interface\WpfApplication1\obj\Release\Test1.csprojResolveAssemblyReference.cache

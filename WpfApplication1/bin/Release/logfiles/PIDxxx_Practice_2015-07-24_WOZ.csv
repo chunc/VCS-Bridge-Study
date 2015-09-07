@@ -1,0 +1,3 @@
+PID, Date, Time, RunType, Scenario, Trial, Task, Mode, InputEvent, ElapsedTime, Duration, N_OptimalChoice, R_FirstTry, Notes
+xxx,7/24/2015,15:34:16,Practice,1A,1,Nav Hard,Visual Only,Start Run,0:00:00.00,0,NA,NA,
+xxx,7/24/2015,15:34:17,Practice,1A,1,Nav Hard,Visual Only,(nav) end prompt,0:00:01.32,1.326,NA,NA,

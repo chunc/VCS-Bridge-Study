@@ -1,0 +1,8 @@
+Trial,Task,Mode,Name,Cuisine,Rating,Reviews,Price,Distance,Score,N_Audio,R_Name,R_Audio_Prompt,R_Audio_Confirm,R_Name_Incorrect,R_Audio_Incorrect
+1,Radio,Visual Only,NA,NA,-5,-5,NA,-5,-5,NA,Hip Hop Hits,r_play_hiphop.mp3,r_confirm_hiphop.mp3,Hot 97.3 FM,r_err_hot.mp3
+2,Radio,Visual Only,NA,NA,-5,-5,NA,-5,-5,NA,Community Rock,r_play_community.mp3,r_confirm_community.mp3,Classic Rock,r_err_rock.mp3
+3,Radio,Visual Only,NA,NA,-5,-5,NA,-5,-5,NA,NPR News,r_play_npr.mp3,r_confirm_npr.mp3,Fox News,r_err_fox.mp3
+4,Radio,Visual Only,NA,NA,-5,-5,NA,-5,-5,NA,Country Hits,r_play_country.mp3,r_confirm_country.mp3,Billboard Top 100,r_err_billboard.mp3
+5,Radio,Visual Only,NA,NA,-5,-5,NA,-5,-5,NA,ESPN Xtreme,r_play_espn.mp3,r_confirm_espn.mp3,Electronic Dance,r_err_edm.mp3
+6,Radio,Visual Only,NA,NA,-5,-5,NA,-5,-5,NA,Christian Rock,r_play_christian.mp3,r_confirm_christian.mp3,Classic Rock,r_err_rock.mp3
+7,Radio,Visual Only,NA,NA,-5,-5,NA,-5,-5,NA,Radio Disney,r_play_disney.mp3,r_confirm_disney.mp3,Family Station,r_confirm_family.mp3

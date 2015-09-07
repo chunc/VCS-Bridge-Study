@@ -1,0 +1,67 @@
+PID, Date, Time, RunType, Scenario, Trial, Task, Mode, InputEvent, ElapsedTime, Duration, N_OptimalChoice, R_FirstTry, Notes
+xxx,5/7/2015,20:21:51,Practice,NA,1,Nav Easy,Audio Only,Start Run,0:00:00.00,0,NA,NA,
+xxx,5/7/2015,20:21:52,Practice,NA,1,Nav Easy,Audio Only,(nav) end prompt,0:00:01.33,1.331,NA,NA,
+PID, Date, Time, RunType, Scenario, Trial, Task, Mode, InputEvent, ElapsedTime, Duration, N_OptimalChoice, R_FirstTry, Notes
+xxx,5/7/2015,20:22:31,Practice,NA,1,Nav Easy,Audio Only,Start Run,0:00:00.00,0,NA,NA,
+xxx,5/7/2015,20:22:32,Practice,NA,1,Nav Easy,Audio Only,(nav) end prompt,0:00:01.32,1.321,NA,NA,
+PID, Date, Time, RunType, Scenario, Trial, Task, Mode, InputEvent, ElapsedTime, Duration, N_OptimalChoice, R_FirstTry, Notes
+xxx,5/7/2015,20:24:42,Practice,NA,1,Nav Easy,Audio Only,Start Run,0:00:00.00,0,NA,NA,
+xxx,5/7/2015,20:24:43,Practice,NA,1,Nav Easy,Audio Only,(nav) end prompt,0:00:01.33,1.331,NA,NA,
+PID, Date, Time, RunType, Scenario, Trial, Task, Mode, InputEvent, ElapsedTime, Duration, N_OptimalChoice, R_FirstTry, Notes
+xxx,5/7/2015,20:26:34,Practice,NA,1,Nav Easy,Hybrid,Start Run,0:00:00.00,0,NA,NA,
+xxx,5/7/2015,20:26:35,Practice,NA,1,Nav Easy,Hybrid,(nav) end prompt,0:00:01.33,1.331,NA,NA,
+xxx,5/7/2015,20:26:53,Practice,NA,1,Nav Easy,Audio Only,change scenario,0:00:19.14,19.143,NA,NA,
+PID, Date, Time, RunType, Scenario, Trial, Task, Mode, InputEvent, ElapsedTime, Duration, N_OptimalChoice, R_FirstTry, Notes
+xxx,5/7/2015,20:26:54,Practice,NA,1,Nav Easy,Audio Only,Start Run,0:00:00.00,0,NA,NA,
+xxx,5/7/2015,20:26:56,Practice,NA,1,Nav Easy,Audio Only,(nav) end prompt,0:00:01.31,1.318,NA,NA,
+PID, Date, Time, RunType, Scenario, Trial, Task, Mode, InputEvent, ElapsedTime, Duration, N_OptimalChoice, R_FirstTry, Notes
+xxx,5/7/2015,20:30:38,Practice,NA,1,Nav Easy,Audio Only,Start Run,0:00:00.00,0,NA,NA,
+xxx,5/7/2015,20:30:39,Practice,NA,1,Nav Easy,Audio Only,(nav) end prompt,0:00:01.32,1.322,NA,NA,
+PID, Date, Time, RunType, Scenario, Trial, Task, Mode, InputEvent, ElapsedTime, Duration, N_OptimalChoice, R_FirstTry, Notes
+xxx,5/7/2015,20:30:56,Practice,NA,1,Nav Easy,Audio Only,Start Run,0:00:00.00,0,NA,NA,
+xxx,5/7/2015,20:30:57,Practice,NA,1,Nav Easy,Audio Only,(nav) end prompt,0:00:01.32,1.323,NA,NA,
+xxx,5/7/2015,20:31:17,Practice,NA,2,Nav Hard,Audio Only,Jump to trial 2,0:00:00.00,-1.323,NA,NA,
+xxx,5/7/2015,20:31:18,Practice,NA,2,Nav Hard,Audio Only,(nav) end prompt,0:00:01.32,1.326,NA,NA,
+xxx,5/7/2015,20:31:36,Practice,NA,3,Nav Easy,Audio Only,Jump to trial 3,0:00:00.00,-1.326,NA,NA,
+xxx,5/7/2015,20:31:37,Practice,NA,3,Nav Easy,Audio Only,(nav) end prompt,0:00:01.32,1.324,NA,NA,
+PID, Date, Time, RunType, Scenario, Trial, Task, Mode, InputEvent, ElapsedTime, Duration, N_OptimalChoice, R_FirstTry, Notes
+xxx,5/7/2015,20:39:12,Practice,NA,1,Nav Easy,Visual Only,Start Run,0:00:00.00,0,NA,NA,
+xxx,5/7/2015,20:39:13,Practice,NA,1,Nav Easy,Visual Only,(nav) end prompt,0:00:01.33,1.331,NA,NA,
+PID, Date, Time, RunType, Scenario, Trial, Task, Mode, InputEvent, ElapsedTime, Duration, N_OptimalChoice, R_FirstTry, Notes
+xxx,5/7/2015,20:40:40,Practice,NA,1,Nav Hard,Visual Only,Start Run,0:00:00.00,0,NA,NA,
+xxx,5/7/2015,20:40:41,Practice,NA,1,Nav Hard,Visual Only,(nav) end prompt,0:00:01.32,1.323,NA,NA,
+xxx,5/7/2015,20:40:48,Practice,NA,1,Nav Hard,Visual Only,(nav) line 3,0:00:07.91,7.919,no,NA,
+xxx,5/7/2015,20:40:48,Practice,NA,1,Nav Hard,Visual Only,show confirmation,0:00:07.93,7.934,NA,NA,
+xxx,5/7/2015,20:40:53,Practice,NA,2,Nav Easy,Visual Only,start trial 2,0:00:12.96,5.03,NA,NA,
+xxx,5/7/2015,20:40:54,Practice,NA,2,Nav Easy,Visual Only,(nav) end prompt,0:00:14.08,1.121,NA,NA,
+xxx,5/7/2015,20:41:09,Practice,NA,2,Nav Easy,Visual Only,(nav) line 3,0:00:29.15,15.067,no,NA,
+xxx,5/7/2015,20:41:09,Practice,NA,2,Nav Easy,Visual Only,show confirmation,0:00:29.16,0.016,NA,NA,
+xxx,5/7/2015,20:41:14,Practice,NA,3,Nav Hard,Visual Only,start trial 3,0:00:34.19,5.026,NA,NA,
+xxx,5/7/2015,20:41:15,Practice,NA,3,Nav Hard,Visual Only,(nav) end prompt,0:00:35.30,1.114,NA,NA,
+xxx,5/7/2015,20:41:20,Practice,NA,1,Nav Easy,Hybrid,change scenario,0:00:40.05,40.056,NA,NA,
+PID, Date, Time, RunType, Scenario, Trial, Task, Mode, InputEvent, ElapsedTime, Duration, N_OptimalChoice, R_FirstTry, Notes
+xxx,5/7/2015,20:41:21,Practice,NA,1,Nav Easy,Hybrid,Start Run,0:00:00.00,0,NA,NA,
+xxx,5/7/2015,20:41:22,Practice,NA,1,Nav Easy,Hybrid,(nav) end prompt,0:00:01.11,1.116,NA,NA,
+xxx,5/7/2015,20:41:34,Practice,NA,2,Nav Easy,Hybrid,Jump to trial 2,0:00:00.00,-1.116,NA,NA,
+xxx,5/7/2015,20:41:45,Practice,NA,2,Nav Easy,Hybrid,(nav) end prompt,0:00:10.91,10.913,NA,NA,
+xxx,5/7/2015,20:42:16,Practice,NA,2,Nav Easy,Hybrid,(nav) line 5,0:00:41.56,30.656,no,NA,
+xxx,5/7/2015,20:42:16,Practice,NA,2,Nav Easy,Hybrid,show confirmation,0:00:41.78,0.221,NA,NA,
+xxx,5/7/2015,20:42:21,Practice,NA,3,Nav Hard,Hybrid,start trial 3,0:00:46.81,5.029,NA,NA,
+xxx,5/7/2015,20:42:22,Practice,NA,3,Nav Hard,Hybrid,(nav) end prompt,0:00:47.93,1.119,NA,NA,
+xxx,5/7/2015,20:42:49,Practice,NA,1,Nav Easy,Audio Only,change scenario,0:01:14.95,74.955,NA,NA,
+PID, Date, Time, RunType, Scenario, Trial, Task, Mode, InputEvent, ElapsedTime, Duration, N_OptimalChoice, R_FirstTry, Notes
+xxx,5/7/2015,20:42:51,Practice,NA,1,Nav Easy,Audio Only,Start Run,0:00:00.00,0,NA,NA,
+xxx,5/7/2015,20:42:52,Practice,NA,1,Nav Easy,Audio Only,(nav) end prompt,0:00:01.32,1.325,NA,NA,
+xxx,5/7/2015,20:43:01,Practice,NA,2,Nav Hard,Audio Only,Jump to trial 2,0:00:00.00,-1.325,NA,NA,
+xxx,5/7/2015,20:43:02,Practice,NA,2,Nav Hard,Audio Only,(nav) end prompt,0:00:01.31,1.318,NA,NA,
+PID, Date, Time, RunType, Scenario, Trial, Task, Mode, InputEvent, ElapsedTime, Duration, N_OptimalChoice, R_FirstTry, Notes
+xxx,5/7/2015,20:54:04,Practice,NA,1,Radio,Visual Only,Start Run,0:00:00.00,0,NA,NA,
+xxx,5/7/2015,20:54:08,Practice,NA,1,Radio,Visual Only,chime,0:00:03.21,3.211,NA,NA,
+xxx,5/7/2015,20:54:09,Practice,NA,1,Radio,Visual Only,r_command_correct,0:00:04.23,4.23,NA,NA,
+xxx,5/7/2015,20:54:13,Practice,NA,1,Radio,Visual Only,r_confirm_correct,0:00:09.05,9.053,NA,yes,
+xxx,5/7/2015,20:54:13,Practice,NA,2,Radio,Visual Only,next trial,0:00:09.07,0.025,NA,NA,
+xxx,5/7/2015,20:54:17,Practice,NA,2,Radio,Visual Only,chime,0:00:12.29,3.213,NA,NA,
+xxx,5/7/2015,20:54:17,Practice,NA,2,Radio,Visual Only,r_command_correct,0:00:13.10,0.812,NA,NA,
+xxx,5/7/2015,20:54:22,Practice,NA,2,Radio,Visual Only,r_confirm_correct,0:00:17.92,4.825,NA,yes,
+xxx,5/7/2015,20:54:23,Practice,NA,3,Radio,Visual Only,next trial,0:00:18.15,0.228,NA,NA,
+xxx,5/7/2015,20:54:26,Practice,NA,3,Radio,Visual Only,chime,0:00:21.36,3.211,NA,NA,

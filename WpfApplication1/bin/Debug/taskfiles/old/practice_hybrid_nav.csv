@@ -1,0 +1,60 @@
+Trial,Task,Mode,Name,Cuisine,Rating,Reviews,Price,Distance,Score,N_Audio,R_Name,R_Audio_Prompt,R_Audio_Confirm,R_Name_Incorrect,R_Audio_Incorrect
+1,Nav Easy,Hybrid,Jade Garden,Chinese,4,3,$,0.8,0,trial01.mp3,NA,NA,NA,NA,NA
+1,Nav Easy,Hybrid,Bob's Bistro,American,3,101,$,0.9,1,trial01.mp3,NA,NA,NA,NA,NA
+1,Nav Easy,Hybrid,Chipotle,Mexican,4,27,$,2,0,trial01.mp3,NA,NA,NA,NA,NA
+1,Nav Easy,Hybrid,Rasika,Indian,4.5,56,$$,9.9,0,trial01.mp3,NA,NA,NA,NA,NA
+1,Nav Easy,Hybrid,Ray's Boathouse,American,2,34,$$,17,0,trial01.mp3,NA,NA,NA,NA,NA
+
+2,Nav Easy,Hybrid,Komi,Greek,4.5,98,$$$,0.2,0,trial02.mp3,NA,NA,NA,NA,NA
+2,Nav Easy,Hybrid,The Potomac Grill,American,4,9,$$,4.1,1,trial02.mp3,NA,NA,NA,NA,NA
+2,Nav Easy,Hybrid,Cheesecake Factory,American,3.5,99,$$$,4.8,0,trial02.mp3,NA,NA,NA,NA,NA
+2,Nav Easy,Hybrid,China First,Chinese,3,48,$,10.3,0,trial02.mp3,NA,NA,NA,NA,NA
+2,Nav Easy,Hybrid,Olive Garden,Italian,2.5,68,$$,12.8,0,trial02.mp3,NA,NA,NA,NA,NA
+
+3,Nav Hard,Hybrid,Lincoln,American,4,53,$$,2,0,trial03.mp3,NA,NA,NA,NA,NA
+3,Nav Hard,Hybrid,What the Pho,Vietnamese,4,14,$,3,0,trial03.mp3,NA,NA,NA,NA,NA
+3,Nav Hard,Hybrid,Chicken Bone,American,2.5,37,$$,4.2,0,trial03.mp3,NA,NA,NA,NA,NA
+3,Nav Hard,Hybrid,Wicked Waffle,American,4.5,57,$,14.2,1,trial03.mp3,NA,NA,NA,NA,NA
+3,Nav Hard,Hybrid,DC Grill,American,2.5,70,$$$,20.6,0,trial03.mp3,NA,NA,NA,NA,NA
+
+4,Nav Hard,Hybrid,Domino's Pizza,Pizza,3.5,97,$,1.9,0,trial04.mp3,NA,NA,NA,NA,NA
+4,Nav Hard,Hybrid,Ben's Chili Bowl,American,4.5,572,$$,2.5,1,trial04.mp3,NA,NA,NA,NA,NA
+4,Nav Hard,Hybrid,Chef Geoff's,American,3.5,94,$$$,3.6,0,trial04.mp3,NA,NA,NA,NA,NA
+4,Nav Hard,Hybrid,Soup City,American,5,5,$$$,13.8,0,trial04.mp3,NA,NA,NA,NA,NA
+4,Nav Hard,Hybrid,Rock Bottom Brewery,American,3.5,12,$,14.2,0,trial04.mp3,NA,NA,NA,NA,NA
+
+5,Nav Easy,Hybrid,Bangkok Chef,Thai,4,72,$$$$,7.4,0,trial05.mp3,NA,NA,NA,NA,NA
+5,Nav Easy,Hybrid,The Carving Board,American,3,17,$$,9.3,1,trial05.mp3,NA,NA,NA,NA,NA
+5,Nav Easy,Hybrid,DC Steak House,American,2.5,64,$$$$,10.1,0,trial05.mp3,NA,NA,NA,NA,NA
+5,Nav Easy,Hybrid,Heavenly Havana ,Cuban,4,1,$,17.2,0,trial05.mp3,NA,NA,NA,NA,NA
+5,Nav Easy,Hybrid,Eiffel Tower Cafe,French,2,125,$$$,20.9,0,trial05.mp3,NA,NA,NA,NA,NA
+
+6,Nav Easy,Hybrid,Five Guys Burgers and Fries,American,4,21,$,0.1,1,trial06.mp3,NA,NA,NA,NA,NA
+6,Nav Easy,Hybrid,Yin and Yam,Chinese,2,5,$$,7,0,trial06.mp3,NA,NA,NA,NA,NA
+6,Nav Easy,Hybrid,Subway,American,3.5,22,$$,9.5,0,trial06.mp3,NA,NA,NA,NA,NA
+6,Nav Easy,Hybrid,Wok Right In,Japanese,3.5,141,$,18.3,0,trial06.mp3,NA,NA,NA,NA,NA
+6,Nav Easy,Hybrid,South China,Chinese,2,55,$$,28,0,trial06.mp3,NA,NA,NA,NA,NA
+
+7,Nav Easy,Hybrid,Tofu For U,Korean,4,121,$$,3.8,0,trial07.mp3,NA,NA,NA,NA,NA
+7,Nav Easy,Hybrid,The Great Wall,Chinese,4,38,$,4.3,0,trial07.mp3,NA,NA,NA,NA,NA
+7,Nav Easy,Hybrid,Royal India,Indian,3.5,58,$,10,0,trial07.mp3,NA,NA,NA,NA,NA
+7,Nav Easy,Hybrid,The Willows,American,3.5,134,$,23.5,1,trial07.mp3,NA,NA,NA,NA,NA
+7,Nav Easy,Hybrid,Buffalo Wild Wings,American,3,87,$$,27,0,trial07.mp3,NA,NA,NA,NA,NA
+
+8,Nav Hard,Hybrid,Blue Diamond Brewery,American,4.5,82,$$,1.7,1,trial08.mp3,NA,NA,NA,NA,NA
+8,Nav Hard,Hybrid,Burger Barn,American,3,15,$$,12.3,0,trial08.mp3,NA,NA,NA,NA,NA
+8,Nav Hard,Hybrid,Satis Fried,American,2,97,$$,13,0,trial08.mp3,NA,NA,NA,NA,NA
+8,Nav Hard,Hybrid,Dairy Queen,American,2,117,$,25.6,0,trial08.mp3,NA,NA,NA,NA,NA
+8,Nav Hard,Hybrid,Ristorante Simone,Italian,4,69,$$,28.9,0,trial08.mp3,NA,NA,NA,NA,NA
+
+9,Nav Hard,Hybrid,The Hunger Gains,American,3,75,$$$$,2,0,trial09.mp3,NA,NA,NA,NA,NA
+9,Nav Hard,Hybrid,National Treasure,American,4.5,63,$,6.7,1,trial09.mp3,NA,NA,NA,NA,NA
+9,Nav Hard,Hybrid,Cedar,American,4,41,$$,9.3,0,trial09.mp3,NA,NA,NA,NA,NA
+9,Nav Hard,Hybrid,China Bistro,Chinese,4,37,$,9.8,0,trial09.mp3,NA,NA,NA,NA,NA
+9,Nav Hard,Hybrid,Southern Kitchen,American,4,133,$$,29.1,0,trial09.mp3,NA,NA,NA,NA,NA
+
+10,Nav Hard,Hybrid,Spice Xing,Indian,4,36,$$,8.8,0,trial10.mp3,NA,NA,NA,NA,NA
+10,Nav Hard,Hybrid,Seasons 52,American,3.5,22,$$,9.5,0,trial10.mp3,NA,NA,NA,NA,NA
+10,Nav Hard,Hybrid,Nick's Chophouse,American,4,6,$$$$,10.3,0,trial10.mp3,NA,NA,NA,NA,NA
+10,Nav Hard,Hybrid,Alpha Pi,American,3.5,39,$$,19.4,0,trial10.mp3,NA,NA,NA,NA,NA
+10,Nav Hard,Hybrid,Guapo's,American,4.5,62,$,20.7,1,trial10.mp3,NA,NA,NA,NA,NA
